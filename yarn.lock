@@ -1556,10 +1556,10 @@
   resolved "https://registry.yarnpkg.com/@guardian/braze-components/-/braze-components-15.0.1.tgz#2c936c43e654f5ae28db254329eae1b4b5861641"
   integrity sha512-XNqYE9X/4aM5vZqiZInedvEZ9niPfdqwL7SjzNF0wnVbR+YObOC6QC68M521gTPcyca6r190qtnayv4GNO0peg==
 
-"@guardian/commercial@^0.0.0-beta-20230927165100":
-  version "0.0.0-beta-20230927165100"
-  resolved "https://registry.yarnpkg.com/@guardian/commercial/-/commercial-0.0.0-beta-20230927165100.tgz#5ce1c6700b4bdd2437f132fd9d6297d1b99bf6c1"
-  integrity sha512-Mdv1HuB/1+Xx4xdqHFs10bkwKWglPG4EvIEaqFaI6k8gxLy9aTsKLHhUtUlCGKnBRC3DzGT9ZPOpmMqFn4h1UA==
+"@guardian/commercial@0.0.0-beta-20230927163534":
+  version "0.0.0-beta-20230927163534"
+  resolved "https://registry.yarnpkg.com/@guardian/commercial/-/commercial-0.0.0-beta-20230927163534.tgz#19a4c467d882daa3937a8d00cbd8cc78dbb36abd"
+  integrity sha512-ve0GWv1Qjo1tkv7NcRIh+yLc4pq2u27yv9/2lIdNTqkw5CMq0c3PAMlDw8KgtJoR82Gnqb/FzAXHhkeW/7Bf4w==
   dependencies:
     "@changesets/cli" "^2.26.2"
     "@octokit/core" "^4.0.5"
